@@ -1,0 +1,17 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <script type="text/javascript">
+	var _prvar=_prvar||new Object();
+	(function(pa,s){if(document.getElementById('pr2638054f'))return false;
+	pa=document.createElement('script');pa.type='text/javascript';pa.async=true;pa.id='pr2638054f';pa.src='//prscripts.com/pub.js';
+	s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(pa,s);})();
+</script>
+  
+</head>

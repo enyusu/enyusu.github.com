@@ -1,0 +1,16 @@
+# Site settings
+title: SexDhun
+description: > # this means to ignore newlines until "baseurl:"
+ Welcome to India's best sex entertainment website.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.sexdhun.com" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: title
+
+gems:
+  - jekyll-redirect-from

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+	<section class="container">
+		<div class ="content row">
+		   {% include header.html %}
+		
+			<section class="main col col-lg-2">
+			<div class="pr-widget" data-h="250" data-res="true" data-w="300" id="pr-eek2"></div>
+			<div class="pr-widget" data-h="250" data-res="true" data-w="300" id="pr-ek0w"></div>
+			<div class="pr-widget" data-h="250" data-res="true" data-w="300" id="pr-ek0x"></div> 
+			<div class="pr-widget" data-h="250" data-res="true" data-w="300" id="pr-ek11"></div>
+			<div class="pr-widget" data-h="250" data-res="true" data-w="300" id="pr-ek12"></div>
+			<div class="pr-widget" data-h="250" data-res="true" data-w="300" id="pr-ek13"></div>
+			<div class="pr-widget" data-h="250" data-res="true" data-w="300" id="pr-ek14"></div>
+			<div class="pr-widget" data-h="250" data-res="true" data-w="300" id="pr-eek2"></div>
+			</section>
+			
+			<section class="main col col-lg-7">
+				  {{ content }}
+            </section>
+			
+			<section class="sidebar col col-lg-3">
+			<div class="pr-widget" data-h="2000" data-res="true" data-w="300" id="pr-ek1c"></div>
+			</section>
+		</div>
+	</section>
+				
+    {% include footer.html %}
+	
+  </body>
+
+</html>

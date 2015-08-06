@@ -1,0 +1,17 @@
+---
+layout: default
+description: Welcome to India's best sex entertainment website. Here you get hot Indian babes pictures, images, photos and desi videos for fun.
+---
+
+<div class="home">
+  <h1 class="page-heading">Recent Posts</h1>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
