@@ -2,6 +2,8 @@
 layout: post
 title: Get Free Candy Sample - Limited Quantities
 permalink: candy-samples/
+description: Get Free Candy Samples Right Now, Hurry up my friends, only limited Quantities.
+ogimg: http://i.pcp003.com/t/20868/product-01.png
 ---
 
 <div class="jumbotron">
