@@ -5,8 +5,8 @@ permalink: candy-samples/
 ---
 
 <div class="jumbotron">
-  <h3>Get Free Candy Sample - Limited Quantities</h3>
+ <h3>Get Free Candy Sample - Limited Quantities</h3>
   <p>Just enter your emails and get a chance to win free candy samples - Hury up !</p>
-  <img src="http://i.pcp003.com/t/20868/product-01.png" />
-<center><a class="btn btn-primary btn-lg" href="http://chlcotrk.com/mt/y24443a4b4t233t224q2u234/" role="button">Click Here to get your free candy samples</a><br/>
+  <center><img src="http://i.pcp003.com/t/20868/product-01.png" /><br/>
+  <a class="btn btn-primary btn-lg" href="http://chlcotrk.com/mt/y24443a4b4t233t224q2u234/" role="button">Click Here to get   your free candy samples</a><br/></center>
 </div>
