@@ -6,8 +6,9 @@ permalink: dating/india/
 
 <div class="jumbotron">
   <h2>Desi Horny Girls Looking for Hot Indian guys.</h2>
-  <p> Join this site for free to chat/date with real Indian Girls (Only 18+ Allowed) </p>
+  <p> Join this site and create your free profile (Only 18+ Allowed)</p>
   <center><p><a class="btn btn-primary btn-lg" href="http://mmtrkpy.com/mt/x2741394f4t233t224q2u234/" role="button"> Click Here, If you're using mobile </a></p>
   <p><a class="btn btn-primary btn-lg" href="http://mmtrkpy.com/mt/w2a4z27484q233t224q2u234/" role="button"> Click Here, If you're using Computer </a></p>
+ <b><i><p> Don't forgot to confirm your email to recieve messages from hot girls </p><i/></b>
  </center>
 </div>
