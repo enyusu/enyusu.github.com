@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Big Farm Games
-permalink: big-farm-games/
+permalink: game/big-farm/
 description: Play Big Fram Games Online Free.
 ogimg: http://i.imgur.com/OzcWtbo.jpg
 ---
