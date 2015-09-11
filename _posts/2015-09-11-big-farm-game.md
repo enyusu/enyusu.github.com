@@ -2,7 +2,7 @@
 layout: post
 title: Play Big Farm Game Online For Free
 permalink: game/big-farm/
-description: Play Big Fram Game Online For Free. Amazing Game, I just love it.
+description: Play Big Farm Game Online For Free. Amazing Game, I just love it.
 ogimg: http://i.imgur.com/OzcWtbo.jpg
 ---
 <div class="jumbotron">
