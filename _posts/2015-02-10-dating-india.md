@@ -10,6 +10,6 @@ permalink: dating/india/
   <center>
   <p><a class="btn btn-primary btn-lg" href="http://mmtrkpy.com/mt/x2741394f4t233t224q2u234/" role="button"> Click Here, If you're using Mobile </a></p>
   <p><a class="btn btn-primary btn-lg" href="http://mmtrkpy.com/mt/w2a4z27484q233t224q2u234/" role="button"> Click Here, If you're using Computer </a></p>
- <i> Don't forgot to confirm your email to recieve messages from hot girls <i/>
+ <i> Don't forgot to confirm your email to receive messages from hot girls <i/>
  </center>
 </div>
