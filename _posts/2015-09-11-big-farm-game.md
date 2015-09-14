@@ -4,8 +4,6 @@ title: Play Big Farm Game Online For Free
 permalink: game/big-farm/
 description: Play Big Farm Game Online For Free. Amazing Game, I just love it.
 ogimg: http://i.imgur.com/OzcWtbo.jpg
-redirect_to:
-  - http://www.enyusu.com/candy-samples/
 ---
 <div class="jumbotron">
  <center><h3>Play Big Farm Game Online For Free</h3>
