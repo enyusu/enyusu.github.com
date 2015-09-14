@@ -12,7 +12,8 @@ redirect_to:
   <a href="http://mmtrkpy.com/mt/y2542374b4v233t224q2u234/">
 <img src="http://i.imgur.com/OzcWtbo.jpg">
 </a> <br/><br/>
- <a class="btn btn-primary btn-lg" href="http://mmtrkpy.com/mt/y2542374b4v233t224q2u234/" role="button"> Click Here To Play Online</a>
+ <a class="btn btn-primary btn-lg" href="Soory" role="button"> Click Here To Play Online</a>
+<p> Sorry Offer Is Closed </p>
   </center>
 </div>
 
