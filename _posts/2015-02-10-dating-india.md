@@ -12,7 +12,7 @@ permalink: dating/india/
  
  <p>Aur ek khas bat, es site pe das hazar se jyada ladkiya online rehti he, wo bhi real aur verify ki hui, aapko sirf batane he ki aapko kis type ki ladkiya pasand he, jesi ki unke balo(hair) ka color, unki aankhe, aur unki figure. </p>
  
-<p> To final me site ki condition ye he ki, aapko apni age 21+ dalni he aur apna email confirm karna he.</p>
+<p> To final me ye free site ki ye condition he ki, aapko apni age 21+ dalni he aur apna email confirm karna he.</p>
   <center>
   <p><a class="btn btn-primary btn-lg" href="http://mmtrkpy.com/mt/x2741394e4v233t224q2u234/" role="button"> Mobile User Yaha Click Kare </a></p>
   <p><a class="btn btn-primary btn-lg" href="http://mmtrkpy.com/mt/w2a4z27484s233t224q2u234/" role="button"> Computer User Yaha Click Kare </a></p>
