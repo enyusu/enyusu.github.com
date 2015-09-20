@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Desi Girls Online
+title: Desi Chat Site  
 permalink: dating/india/
 ---
-
-<div class="jumbotron">
-  <h2>Real Desi Girls Se Bat Karo</h2>
-  <p> Es Site me Das hazar se jyada ladkiya online rehti he wo bhi verify ki hui, lekin site me registration ke time aapko apni age (umra) 22+ dalni paregi, aur apna email bhi confirm karna parega, to jaldi free me account bana lijiye abhi, aur bahut maze karo online, aur dusro ko bhi maze do.</p> 
   <center>
+<div class="jumbotron">
+  <h2>Desi Chat Site (18+ only)</h2>
+  <p> Es Desi Chat Site Join Honey se Pehle Aapko Ye do batey Yad Rakhni He.</p>
+  <p> 1. Aapko Apni Age (Umra) 22 Ke Upar Dalni Paregi, Account banake waqt.</p>
+  <p> 2. Aapko Apna Email Confirm Karna Hoga, Inbox MailBox me jo link aayegi us par click karke.</p> 
   <p><a class="btn btn-primary btn-lg" href="http://mmtrkpy.com/mt/x2741394e4v233t224q2u234/" role="button"> Mobile User Yaha Click Kare </a></p>
   <p><a class="btn btn-primary btn-lg" href="http://mmtrkpy.com/mt/w2a4z27484s233t224q2u234/" role="button"> Computer User Yaha Click Kare </a></p>
  </center>
