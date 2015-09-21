@@ -5,8 +5,7 @@ permalink: install-uc-browser/
 ---
 
 <div class="jumbotron">
-  <h3>Install UC Browser for Android.</h3>
-  <p> UC Browser come with lot's of future including </p>
+  <h3> Most Powerful future by UC Browser</h3>
   <p>✔ Online videos without waiting.Movies and TV shows in Speed mode.</p>
 <p>✔ Fast and stable downloads,thanks to our powerful servers.</p>
 <p>✔ Expanding AdBlockadapted to main websites and blocks most ads.</p>
