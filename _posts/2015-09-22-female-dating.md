@@ -8,5 +8,6 @@ permalink: dating/female/
  <p> Ye Hindi chat site Sirf Aur Sirf Ladkiyo(Female) ke Liye he Jinki Umr 22 hun. Free me account banana ke liye niche di gaye button par click kare.</p>
   <center><p><a class="btn btn-primary btn-lg" href="http://mmtrkbb.com/mt/y224x2c484s233t224q2u234/" role="button"> Mobile User Yaha Click Kare </a></p>
   <p><a class="btn btn-primary btn-lg" href="http://mmtrkbb.com/mt/y224x2c484t233t224q2u234/" role="button"> Computer User Yaha Click Kare </a></p>
+  <i> Aapko Apna Email Verify Karna Jaruri He </i>
  </center>
 </div>
