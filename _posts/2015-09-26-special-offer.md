@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Escape the 9-5 Daily Grind by starting your own Home Based Business.
-permalink: Offer/
+permalink: offer/
 ---
 
 <div class="jumbotron"><center>
