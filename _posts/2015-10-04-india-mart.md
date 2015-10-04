@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Online Business - Indian Marketplace
-permalink: online-india/
+permalink: indiamart/
 ---
+
 <center>
 <div class="jumbotron">
   <h2>Online Business - Indian Marketplace </h2>
