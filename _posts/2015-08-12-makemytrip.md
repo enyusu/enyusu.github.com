@@ -1,12 +1,30 @@
 ---
 layout: post
-title: MakeMyTrip Offer
-permalink: makemytrip-offer/
+title: Ragi
+permalink: ragi/
 ---
 
+<section class="main col col-lg-12 visible-xs">
 <div class="jumbotron">
-  <h1>MakeMyTrip Offer</h1>
-  <p> Once you download the app, we have awesome benefits to get you started<p>
-<center><a class="btn btn-primary btn-lg" href="http://goo.gl/jhXzrA" role="button">Click Here to Install MakeMyTrip App From Google Play Store</a><br/>
-  <i>Please use your default browser to open the above link</i></center></p>
-</div>
+<center>
+<h2>Female Dating Site (22+ only)</h2>
+<p> Ye site sirf female ke liye he jinki umr 22 hun.<br/></p>
+<a class="btn btn-primary btn-lg" href="http://nbeatrk.com/mt/y224x2c484s233t224q2u234/&subid1=pb" role="button" rel="nofollow"> Click Here For Free Registration </a><br/>
+<br/><i>Email Verify Karna jaruri he, site ke sab future use karne ke liye</i>
+</center>
+</div></section>
+      
+<section class="main col col-lg-12 visible-lg visible-md">
+<div class="jumbotron">
+<center>
+<h2>Free Sex Chatting Site</h2>
+<p>Join this site only, if you are 18+<br/></p>
+<a class="btn btn-primary btn-lg" href="http://cldadlt.com/?a=29307&c=73006&s1=" role="button" rel="nofollow"> Click Here For Free Registration</a><br/>
+<br/><i>Email Verify Karna jaruri he, site ke sab future use karne ke liye</i>
+</center>
+</div></section>
+
+
+
+
+
