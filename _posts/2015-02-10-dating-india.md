@@ -2,7 +2,6 @@
 layout: post
 title: Female Chat Site  
 permalink: dating/india/
-metaurl: http://cloudhosting.enyusu.com/
 ---
 <div class="jumbotron">
   <center>
