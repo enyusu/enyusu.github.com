@@ -4,23 +4,12 @@ title: Female Chat Site
 permalink: dating/india/
 ---
 
-<section class="main col col-lg-12 visible-xs">
+<section class="main col col-lg-12">
 <div class="jumbotron">
 <center>
-<h2>Female Dating Site (22+ only)</h2>
-<p> Ye site sirf female ke liye he jinki umr 22 hun.</p>
+<h2>Desi Dating Site</h2>
+<p>Ye site sirf 18+ ke liye he.</p>
 <p>Email Verify Karna jaruri he, site ke sab future use karne ke liye</p><br/>
-<a class="btn btn-primary btn-lg" href="http://kuaptrk.com/mt/y224x2c484s233t224q2u234/&subid5=NR" role="button" rel="nofollow"> Click Here For Free Registration </a><br/>
+<a class="btn btn-primary btn-lg" href="http://cldadlt.com/?a=29307&c=73006&s1=" role="button" rel="nofollow"> Click Here For Free Registration </a><br/>
 </center>
 </div></section>
-      
-<section class="main col col-lg-12 visible-lg visible-md">
-<div class="jumbotron">
-<center>
-<h2>Free Sex Chatting Site</h2>
-<p>Join this site only, if you are 18+<br/></p>
-<p>Email Verify Karna jaruri he, site ke sab future use karne ke liye</p><br/>
-<a class="btn btn-primary btn-lg" href="http://cldadlt.com/?a=29307&c=73006&s1=" role="button" rel="nofollow"> Click Here For Free Registration</a><br/>
-</center>
-</div></section>
-
