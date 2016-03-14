@@ -10,7 +10,7 @@ permalink: dating-india-lp/
 <h2>Desi Dating Site</h2>
 <p>Ye site sirf 18+ ke liye he.</p>
 <p><b><i>Email Verify Karna jaruri he, site ke sab future use karne ke liye</i></b></p><br/>
-<a class="btn btn-primary btn-lg" href="http://cldadlt.com/?a=29307&c=73006&s1=" role="button" rel="nofollow"> Click Here For Free Registration </a><br/>
+<a class="btn btn-primary btn-lg" href="http://cldadlt.com/?a=29307&c=73006&s1=pb&s2=pb_2" role="button" rel="nofollow"> Click Here For Free Registration </a><br/>
 </center>
 </div></section>
 
