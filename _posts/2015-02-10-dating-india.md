@@ -1,15 +1,8 @@
 ---
 layout: post
-title: Desi Dating Site  
-permalink: dating/india/
+title: Howdy 
+permalink: mallu/
+turl: https://3.bp.blogspot.com/-B7Kr4M0n-Wc/VvgCV-z_oeI/AAAAAAAABDY/Qc21kLMPT7MjkL6Kpl5sqWIx2Tea6NlKg/s1600/mallu%2BB%2Bgrade%2Bscene%2B%25281%2529.jpg
 ---
 
-<section class="main col col-lg-12">
-<div class="jumbotron">
-<center>
-<h2>Desi Dating Site</h2>
-<p>Ye site sirf 18+ ke liye he.</p>
-<p><b><i>Email Verify Karna jaruri he, site ke sab future use karne ke liye</i></b></p><br/>
-<a class="btn btn-primary btn-lg" href="http://cldadlt.com/?a=29307&c=73006&s1=" role="button" rel="nofollow"> Click Here For Free Registration </a><br/>
-</center>
-</div></section>
+<img class="img-responsive" src="https://3.bp.blogspot.com/-B7Kr4M0n-Wc/VvgCV-z_oeI/AAAAAAAABDY/Qc21kLMPT7MjkL6Kpl5sqWIx2Tea6NlKg/s1600/mallu%2BB%2Bgrade%2Bscene%2B%25281%2529.jpg" />

@@ -1,13 +1,49 @@
----
-layout: default
----
-<div class="post">
+<!DOCTYPE html>
+<html>
 
-  <header class="post-header">
-  </header>
+  {% include head.html %}
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+  <body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
-</div>
+	<section class="container">
+		<div class ="content row">
+		   {% include header.html %}
+		   
+			<section class="main col col-lg-3">
+				 
+            </section>
+
+			<section class="main col col-lg-8">
+				  <div class="post">
+
+					  <header class="post-header">
+					  </header>
+
+					  <article class="post-content">
+						{{ content }}
+					  </article>
+					  
+					  {% include sharecode.html %}
+					</div>
+            </section>
+			
+			<section class="main col col-lg-2">
+				<script type="text/javascript">
+					var ad_idzone = "1997838",
+						 ad_width = "300",
+						 ad_height = "600";
+					</script>
+					<script type="text/javascript" src="https://ads.exoclick.com/ads.js"></script>
+					<noscript><a href="http://main.exoclick.com/img-click.php?idzone=1997838" target="_blank"><img src="https://syndication.exoclick.com/ads-iframe-display.php?idzone=1997838&output=img&type=300x600" width="300" height="600"></a></noscript>
+				</section>
+			
+		</div>
+	</section>
+				
+    {% include footer.html %}
+	
+  </body>
+
+</html>
