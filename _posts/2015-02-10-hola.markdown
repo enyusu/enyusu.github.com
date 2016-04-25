@@ -1,7 +1,0 @@
----
-layout: post
-title: Hola Launcher: Smaller, yet bigger 
-permalink: hola/
----
-<p> Personalize your device with this small, lightweight, and easy-to-use alternative to your default home launcher. </p>
-<a class="btn btn-primary btn-lg" href="#"  role="button" rel="nofollow">Install Now!</a>
